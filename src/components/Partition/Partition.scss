@@ -1,0 +1,83 @@
+.cartz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9rem;
+    padding-top: 3rem;
+    .cart1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 13rem;
+        width: 27rem;
+        background-color: #3D3D3D;
+        border-radius: 10px;
+        .cube{
+            box-shadow: 2px 2px 25px 1px #FF704E;
+            border-radius: 10px;
+        }
+         .cart1items{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 4rem;
+               .matncart1{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 7rem;
+                font-size: 23px;
+                color: white;
+                font-weight: 800;
+               }
+         }
+        }
+        .cart2{
+            height: 9rem;
+            width: 10rem;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                gap: 5px;
+                padding-top:15px;
+        }
+        .cart3{
+            height: 9rem;
+            width: 10rem;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                gap: 5px;
+                padding-top:15px;
+        }
+        .cart4{
+            height: 9rem;
+            width: 10rem;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                gap: 5px;
+                padding-top:15px;
+        }
+        .cart5{
+            height: 9rem;
+            width: 10rem;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                gap: 5px;
+                padding-top:15px;
+        }
+}
