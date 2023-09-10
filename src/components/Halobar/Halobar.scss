@@ -1,0 +1,43 @@
+.mainbar{
+    height: 6rem;
+    background-color: #DFDFDF;
+    color: #929292;
+    display: flex; 
+    align-items:center ;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+    border-radius: 13px;
+    
+    ul{
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 7rem;
+        
+    }
+    li{
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    img{
+        height: 2rem;
+        
+    }
+    p{
+        font-size: 17px;
+    }
+    .logo{
+        padding-left: 2rem;
+        height: 2.5rem;
+    }
+    li:hover{
+            color: #FF704E;
+            font-weight: 900;
+            
+        
+    }
+}
